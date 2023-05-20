@@ -1,0 +1,17 @@
+Dependencies: 
+- React
+- Redux and the toolkit ? - does not seem to be needed
+- Form with input field and 19 buttons
+- AC button just makes input 0
+- pressing number buttons concatenates input
+- enter does the calculation - how? - Takes the input and makes it a number
+- how to imlement functionality of the 4 different sign ( +, -, *, / ). Pressing the button should push the prevous number in the [] and 
+- clear leading zeros in the input?
+
+Todo
+- make one button component, should accept - text, function ?
+- styling, grid the from?
+- make pressing a number to store and clear the current input
+- CSS - input field to be grid - 1 - 4
+- CSS - 0 to be grid 1-2
+- make numbers to assign new value to result 
